@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="I:/Developpement/lwjgl-2.9.1/jar/lwjgl.jar">
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/lwjgl-2.9.1/jar/lwjgl.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="I:/Developpement/lwjgl-2.9.1/native/windows"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/NIGHTWOLF/Documents/Dev/lwjgl-2.9.1/native/windows"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="I:/Developpement/lwjgl-2.9.1/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/lwjgl-2.9.1/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/slick/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/slick/slick.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/slick/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NIGHTWOLF/Documents/Dev/slick/jogg-0.0.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

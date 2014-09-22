@@ -18,4 +18,7 @@ public final class TimeHelper {
 	    return (Sys.getTime() * 1000) / Sys.getTimerResolution();
 	}
  
+	public static int getRandomNum(int min, int max){
+		return (int) (min + (Math.random() * (max - min)));
+	}
 }
